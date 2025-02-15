@@ -26,7 +26,7 @@ xlabel('n'); ylabel('Amplitude');
 grid on;
 
 subplot(2, 2, [3, 4]);
-zplane(b, a); % V? c?c và không
+zplane(b, a); 
 title('Poles and Zeros');
 grid on;
 
